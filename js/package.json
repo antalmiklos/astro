@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fit-file-parser": "^1.9.3",
+    "indi-client": "^1.4.0",
+    "key-events": "^0.1.1",
+    "mqtt": "^5.1.4",
+    "tiff.js": "^1.0.0"
+  }
+}
