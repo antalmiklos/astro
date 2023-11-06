@@ -3,6 +3,7 @@ class Mount {
         this.target = {Ra: 0, Dec: 0}
         this.current = {Ra: 0, Dec: 0}
         this.name = "";
+        this.type = "mount"
     }
 
     setTarget(target) {
